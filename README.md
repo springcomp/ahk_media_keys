@@ -3,7 +3,7 @@ This repository contains a simple [AutoHotKey](https://www.autohotkey.com) scrip
 ## Installation
 
 Copy the `media-keys.ahk` file to Windows’s startup folder.
-You can type <kdb>Win</kbd>, <kbd>R</kbd>, then `shell:startup` to open an Explorer in Windows’s startup menu.
+You can type <kbd>Win</kbd>, <kbd>R</kbd>, then `shell:startup` to open an Explorer in Windows’s startup menu.
 
 ## Supported Multimedia Features
 
